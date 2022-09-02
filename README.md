@@ -1,6 +1,8 @@
 # Testing
 
 This is testing doc
-This is alternates version<<<<<<< HEAD
+<<<<<<< HEAD
+This is alternates version
+=======
 This mains version
 >>>>>>> main
